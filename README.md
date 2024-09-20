@@ -1,4 +1,12 @@
-### Hi there 👋
+### Kaua here! 👋
+- 🔭 I’m currently working on LEDS IFES Serra
+- 🌱 I’m currently learning Bachelor's degree in Computer Information Systems
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...-->
+- 📫 How to reach me: kaua.ifes@gmail.com
+- 😄 Pronouns: He/His
+<!-- - ⚡ Fun fact: ... -->
 
 <!--
 **KauaIF/KauaIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
